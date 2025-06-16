@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-🎯 A passionate learner transitioning from **Java Full Stack Development** to **Data Science** to solve real-world problems using data.  
+🎯 A passionate learner and detail-oriented individual aiming to build a career in **Data Science and Analytics**. I’ve completed multiple hands-on projects across Python, MySQL, Power BI, and Machine Learning. I also have full-stack development experience using Java and Spring Boot..  
 💡 I enjoy building insightful machine learning models.  
 📈 Currently focused on mastering **data analytics**, **machine learning**, and **NLP**.
 
@@ -46,6 +46,12 @@
 > 🔧 Tools: Python, MySQL  
 > 📌 Analyzed retail order data using SQL and Python to discover business insights.  
 > 📎 [View Project](https://github.com/GautamiOV/retail-orders)
+
+#### 📊 Sales Insights Dashboard (Power BI)
+> Built a professional Power BI dashboard to analyze a company's sales performance.
+> Connected and cleaned MySQL data using Power Query, transformed currency values (USD to INR), and created calculated columns.
+> Visuals include Total Sales, Profit by Category, Monthly Trends, Regional Sales Performance, and Key KPIs.
+> Tools Used: Power BI, MySQL, Power Query Editor
 
 #### 💳 Credit Card Fraud Detection
 > 🔧 Tools: Python, Pandas, Scikit-learn  
